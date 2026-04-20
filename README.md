@@ -86,6 +86,12 @@ Focus     : AI Systems, Backend Logic, Real-world Projects
   <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amkbitshift&layout=compact&theme=transparent&title_color=00F5FF&text_color=ffffff" />
 </p>
 
+## contribution_snake
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/amkbitshift/amkbitshift/output/github-contribution-grid-snake-dark.svg" />
+</p>
+
 ## connect
 
 <p align="center">
